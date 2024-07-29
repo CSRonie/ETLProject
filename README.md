@@ -1,3 +1,3 @@
-# First ETL Rpoject Repo
+# First ETL Project Repo
 
 Hello World
